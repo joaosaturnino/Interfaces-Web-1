@@ -1,0 +1,87 @@
+body{
+    background-image: url(fundo.png);
+}
+div{
+    background-color: seagreen;
+    border: 10px solid yellow;
+    margin-top: 20px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    /*margin: 20px 30px 20px auto */
+    padding-left: 40px;
+    border-radius: 20px;
+    text-align: center;
+   
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    background-position: center;
+}
+
+.borda{
+    border-radius: 20px;
+    border: 10px dashed yellow;
+}
+
+.aleatorio{
+    border-radius: 20px;
+    border: 10px dotted yellow;
+}
+
+.teste{
+    border-radius: 20px;
+    border: 10px double yellow;
+}
+
+.ponto{
+    border-radius: 20px;
+    border: 10px groove yellow;
+}
+
+.paralelepipedo{
+    border-radius: 20px;
+    border: 10px dashed green;
+}
+
+.paraguai{
+    border-radius: 20px;
+    border: 10px double green;
+}
+
+.brasil{
+    border-radius: 20px;
+    border: 10px outset yellow;
+}
+
+.argentina{
+    border-radius: 20px;
+    border: 10px inset yellow;
+}
+
+.russia{
+    border-radius: 20px;
+    border: 10px outset yellow;
+}
+
+footer{
+    margin-top: 300px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+}
+
+button{
+    color: white;
+    background-color: blue;
+    width: 80px;
+    left: 20px;
+    border-radius: 20px;
+}
+
+body{
+    background-color: blueviolet;
+}
